@@ -1,0 +1,6 @@
+leitor = input('Digite alguma coisa: ')
+print('O tipo primitivo desse valor é ', type(leitor))
+print('É só letra?', leitor.isalpha())
+print('É só número?', leitor.isnumeric())
+print('É só espaço?', leitor.isspace())
+print('É só maiúsculas?', leitor.isupper())
