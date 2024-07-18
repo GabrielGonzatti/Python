@@ -1,0 +1,8 @@
+Gustavo;20
+Ana;20
+Paulo;40
+Jose;123
+Joao;20
+Maria;21
+Meireles;45
+Moureira;70
